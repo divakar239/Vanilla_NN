@@ -12,3 +12,4 @@
   - Lowerscript <i>i</i> denotes i<sup>th</sup> entry of a vector
   
   For example a<sub>i</sub><sup>[l]</sup> denotes the i<sup>th</sup> entry in the l<sup>th</sup> activation layer.
+to be continued ...
