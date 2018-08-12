@@ -79,6 +79,5 @@ def sigmoid_backward(dA, cache):
     dZ = dA * s * (1-s)
     
     assert (dZ.shape == Z.shape)
-    
     return dZ
 
